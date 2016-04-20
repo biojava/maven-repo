@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.biojava</groupId>
+  <artifactId>sequenceui</artifactId>
+  <versioning>
+    <release>2011.09</release>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.2-SNAPSHOT</version>
+      <version>2011.10-SNAPSHOT</version>
+      <version>2011.09</version>
+      <version>2012.07-SNAPSHOT</version>
+      <version>2013.02.26-SNAPSHOT</version>
+      <version>2013.06.01-SNAPSHOT</version>
+      <version>2013.09.01-SNAPSHOT</version>
+      <version>2013.11.04-SNAPSHOT</version>
+      <version>2013.11.05-SNAPSHOT</version>
+      <version>2013.11.26-SNAPSHOT</version>
+      <version>2013.11.27-SNAPSHOT</version>
+      <version>2013.12.19-SNAPSHOT</version>
+      <version>2015.01.30-SNAPSHOT</version>
+      <version>2016.03.23-SNAPSHOT</version>
+      <version>2016.03.27-SNAPSHOT</version>
+      <version>2016.03.29-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160329154414</lastUpdated>
+  </versioning>
+</metadata>

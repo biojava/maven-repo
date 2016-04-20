@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org</groupId>
+  <artifactId>forester</artifactId>
+  <version>0.955</version>
+  <versioning>
+    <versions>
+      <version>0.955</version>
+      <version>1.005</version>
+    </versions>
+    <lastUpdated>20121016204633</lastUpdated>
+  </versioning>
+</metadata>
